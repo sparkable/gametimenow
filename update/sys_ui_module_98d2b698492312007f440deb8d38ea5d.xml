@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Game Players">90d2b698492312007f440deb8d38ea5d</application>
+        <application/>
         <filter/>
         <name>Game Players</name>
         <order/>
